@@ -1,0 +1,5 @@
+{
+  "name": "SciTable: Markdown to Academic Table",
+  "description": "Converts Markdown tables into three-line academic style tables compatible with Word and supports PNG export.",
+  "requestFramePermissions": []
+}
